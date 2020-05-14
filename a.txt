@@ -1,0 +1,25 @@
+O  GIT --> significa Sistema de Controle de Versões
+Ele documenta e armazena as alterações feitas no código.
+
+Sua importância na programação é vital , pois a igual a lógica de programação
+
+Com ele é possivel realizar backup nas nuvens (similar ao google drive)
+Relaiza um controle das versões e alterações como neste exemplo.
+Com ele é possivel acompanhar todas as alterações 
+É possivel trabalhar em equipe 
+Criar um portfólio, e assim comprovar que vc tem conteúdo
+
+Comandos mais utilizados listados abaixo:
+
+git init inicialização e reastreamento do repositório
+git clone utiliza de um repositório remoto pra se fazer um clone
+git add adiciona arquivos 
+git commit realiza comentários do que foi alterado
+git push   quando se trabalha em equipe remotas coloca informações no remoto
+git pull atualização do repositório local conforme o remoto
+git merge quem foi que alterou quando tiver em conflitos
+git status informações atuais
+git log histórico de alterações
+git branch criar uma ramificação
+clear limpa a tela
+ls -a exibi o repositório oculto
